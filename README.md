@@ -21,13 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile](./screenshots/mobile-design.png)
-![desktop](./screenshots/desktop-design.png)
+![mobile](https://raw.github.com/Alokray007/stats-preview-FM/main/screenshots/mobile-design.png)
+![desktop](https://raw.github.com/Alokray007/stats-preview-FM/main/screenshots/desktop-design.png)
 
 ### Links
 
 - Solution URL: [Github](https://github.com/Alokray007/stats-preview-FM)
-- Live Site URL: [Netlify- Live Site](https://statsprev.netlify.app/)
+- Live Site URL: [Netlify- Live Site](https://statsprevew.netlify.app/)
 
 ### Built with
 
